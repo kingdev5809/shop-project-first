@@ -1,0 +1,10 @@
+Intaling npm s
+npm instal --global yarn
+yarmnn instaling
+
+font awesome
+npm i --save @fortawesome/fontawesome-svg-core
+ npm install --save @fortawesome/free-solid-svg-icons
+ npm install --save @fortawesome/react-fontawesome
+
+ 
